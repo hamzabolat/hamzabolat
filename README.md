@@ -12,4 +12,4 @@
 - **Focus:** Backend logic, scripting, and continuous learning
 
 ### 📫 Let's Connect
-- [LinkedIn Profile](www.linkedin.com/in/hamzabolat)
+- [LinkedIn Profile]( www.linkedin.com/in/hamzabolat )
