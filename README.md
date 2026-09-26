@@ -10,6 +10,3 @@
 - **Languages:** Python, C (Learning)
 - **Tools:** VS Code, Git, GitHub, GitHub Desktop
 - **Focus:** Backend logic, scripting, and continuous learning
-
-### 📫 Let's Connect
-- [LinkedIn Profile](https://www.linkedin.com/in/hamzabolat)
